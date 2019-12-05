@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<concrete5-cif version="1.0">
+    <singlepages>
+        <page name="Job Exception Notification"
+              path="/dashboard/system/mail/job_exception_notification"
+              filename=""
+              pagetype=""
+              description=""
+              package="job_exception_notifier">
+        </page>
+    </singlepages>
+</concrete5-cif>
